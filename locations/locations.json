@@ -824,7 +824,7 @@
     {
       "name": "Machine Tower: Foxy platforms ledge",
       "access_rules": [ 
-        
+        "tackle"
       ],
       "sections": [
         {
@@ -845,7 +845,7 @@
     {
       "name": "Machine Tower: Knight fox meeting room",
       "access_rules": [ 
-        
+        "tackle"
       ],
       "sections": [
         {
@@ -865,7 +865,7 @@
     },
     {
       "name": "Machine Tower: Boneheaded argument wall kicks room",
-      "access_rules": [ "$jumplv2", "kick"],
+      "access_rules": [ "$jumplv2,tackle", "kick,tackle", ],
       "sections": [
         {
   
@@ -885,7 +885,7 @@
     {
       "name": "Machine Tower: Foxy fake wall",
       "access_rules": [ 
-        
+        "tackle"
       ],
       "sections": [
         {
@@ -905,7 +905,7 @@
     },
     {
       "name": "Machine Tower: Skelly-rang wall kicks room",
-      "access_rules": [ "$jumplv2", "kick"],
+      "access_rules": [ "$jumplv2,tackle", "kick,tackle"],
       "sections": [
         {
   
@@ -925,7 +925,7 @@
     {
       "name": "Machine Tower: Fake Lilim wall",
       "access_rules": [ 
-        
+        "tackle"
       ],
       "sections": [
         {
@@ -946,7 +946,7 @@
     {
       "name": "Machine Tower: Thunderous zone fake wall",
       "access_rules": [ 
-        
+        "tackle"
       ],
       "sections": [
         {
@@ -967,7 +967,7 @@
     {
       "name": "Machine Tower: Thunderous zone lone Stone Armor room",
       "access_rules": [ 
-        
+        "tackle"
       ],
       "sections": [
         {
