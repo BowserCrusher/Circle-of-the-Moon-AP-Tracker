@@ -1687,7 +1687,7 @@
     },
     {
       "name": "Chapel Tower: Outside Battle Arena - Upper",
-      "access_rules": [ "$jumplv3,$freeze", "$jumplv4"
+      "access_rules": [ "$jumplv3,$freeze,push", "$jumplv4,push"
         
       ],
       "sections": [
@@ -1708,7 +1708,7 @@
     },
     {
       "name": "Chapel Tower: Outside Battle Arena - Lower",
-      "access_rules": [ "$jumplv3,$freeze", "$jumplv4"
+      "access_rules": [ "$jumplv3,$freeze,push", "$jumplv4,push"
         
       ],
       "sections": [
@@ -2357,7 +2357,7 @@
   //Rebels
   {
     "name": "Machine Tower: Top lone Stone Armor room",
-    "access_rules": [ "double, kick","roc"],
+    "access_rules": [ "double,tackle","roc", "kick,tackle"],
     "sections": [
       {
 
@@ -2394,7 +2394,7 @@
     },
   {
     "name": "Machine Tower: Pre-Iron Golem fake wall",
-    "access_rules": [ "double, kick","roc"],
+    "access_rules": [ "double,tackle","$jumplv3", "kick,double"],
     "sections": [
       {
 
@@ -2413,7 +2413,7 @@
   },
   {
     "name": "Machine Tower: Behind Iron Golem",
-    "access_rules": [ "double, kick","roc"],
+    "access_rules": [ "double,tackle","roc", "kick,tackle"],
     "sections": [
       {
 
@@ -2517,7 +2517,7 @@
 },
 {
   "name": "Underground Waterway: Entrance fake wall",
-  "access_rules": [ "$extraheight, openmaiden" ],
+  "access_rules": [ "$jumplv1, openmaiden" ],
   "sections": [
     {
       "item_count": 1
