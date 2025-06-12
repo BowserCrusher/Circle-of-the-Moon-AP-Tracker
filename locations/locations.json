@@ -2357,7 +2357,7 @@
   //Rebels
   {
     "name": "Machine Tower: Top lone Stone Armor room",
-    "access_rules": [ "double,tackle","roc", "kick,tackle"],
+    "access_rules": [ "double,tackle","$jumplv3", "kick,double"],
     "sections": [
       {
 
@@ -2413,7 +2413,7 @@
   },
   {
     "name": "Machine Tower: Behind Iron Golem",
-    "access_rules": [ "double,tackle","roc", "kick,tackle"],
+    "access_rules": [ "double,tackle","$jumplv3", "kick,double"],
     "sections": [
       {
 
