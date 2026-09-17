@@ -783,7 +783,7 @@
   "children": [
     {
       "name": "Audience Room: Below Machine Tower roc ledge",
-      "access_rules": [ "$jumplv5"],
+      "access_rules": [ "$jumplv5, tackle"],
       "sections": [
         {
   
@@ -803,7 +803,7 @@
     {
       "name": "Audience Room: Below Machine Tower push crate room",
       "access_rules": [
-        "push"
+        "push, tackle"
       ],
       "sections": [
         {
@@ -2334,7 +2334,7 @@
     },
     {
       "name": "Ceremonial Room: Fake Floor",
-      "access_rules": [ "$keys, $jumplv2", "kick"],
+      "access_rules": [ "$keys, $jumplv2", "$keys, kick"],
       "sections": [
         {
           "name": "Can't get out without kick or roc",
@@ -2500,7 +2500,7 @@
 {
   "name": "Triumph Hallway: Entrance Flame Armor climb",
   "access_rules": [
-    "$araccess, kick, $freeze", "$araccess, $jumplv2"
+    "$araccess, $jumplv2"
   ],
   "sections": [
     {

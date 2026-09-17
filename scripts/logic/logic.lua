@@ -111,14 +111,17 @@ function ugeaccess()
     return (((has("double") and has("kick")) or jumplv2()) and has("openmaiden"))
 end
 function wateraccess()
-    return (((has("double") and has("kick")) or jumplv2()) or (asaccess() and has("openmaiden") and has("$cleansed")))
+    return (((has("double") and has("kick")) or jumplv2()) and (asaccess() and has("openmaiden") and has("$cleansed")))
   
 end
 
 
 function keys()
     local keys = Tracker:ProviderCountForCode("last_keys")
-    local goal = Tracker:FindObjectForCode("finalkeys").CurrentStage + 1
-    print(Tracker:FindObjectForCode("finalkeys").CurrentStage)
-    return keys >= goal
+    local goal = Tracker:FindObjectForCode("finalkeys").CurrentStage
+    if (keys >= (goal + 1)) then
+        return true
+    else
+        return false
+    end
   end  
