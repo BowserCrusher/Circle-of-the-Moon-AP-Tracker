@@ -1,6 +1,17 @@
 {
     "versions": [
         {
+            "package_version": "2.4.1",
+            "download_url": "https://github.com/BowserCrusher/Circle-of-the-Moon-AP-Tracker/archive/refs/tags/2.4.1/Circle-of-the-Moon-AP-Tracker.zip",
+            "sha256": "b08156f8e9b9160cb6ed89a581f116b560e9e83b400d03b8643e515b18de2683",
+            "changelog": [
+                "Required Keys and Nerf Roc Wing options autotracking (Maiden Detonator may also be working)",
+                "Underground Gallery: Harpy Climb and Ceremonial Rooms now track correctly",
+                "Upper Machine Tower checks now accessible with just Nerfed Roc Wing",
+                "Late Chapel Tower requires kick or upgraded Roc Wing"
+            ]
+        },
+        {
             "package_version": "2.4",
             "download_url": "https://github.com/BowserCrusher/Circle-of-the-Moon-AP-Tracker/archive/refs/tags/2.4/Circle-of-the-Moon-AP-Tracker.zip",
             "sha256": "a317d22e54fe67aed8a925a7c1f4925b6c213297ba0aed831882e15697d22f02",
