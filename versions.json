@@ -1,0 +1,48 @@
+{
+    "versions": [
+        {
+            "package_version": "2.4",
+            "download_url": "https://github.com/BowserCrusher/Circle-of-the-Moon-AP-Tracker/archive/refs/tags/2.4/Circle-of-the-Moon-AP-Tracker.zip",
+            "sha256": "a317d22e54fe67aed8a925a7c1f4925b6c213297ba0aed831882e15697d22f02",
+            "changelog": [
+                "Waterways now requires Maiden and Cleansing",
+                "2 Audience Room checks require tackle",
+                "Last Keys are accurate with kick"
+            ]
+        },
+        {
+            "package_version": "2.3",
+            "download_url": "https://github.com/BowserCrusher/Circle-of-the-Moon-AP-Tracker/archive/refs/tags/2.3/Circle-of-the-Moon-AP-Tracker.zip",
+            "sha256": "7a0a398e6c15693a04167d905703b8e06c30da9e2b878124d162e5e6230f37c9",
+            "changelog": [
+                "Fixed Waterways",
+                "Fixed Ceremonial Room"
+            ]
+        },
+        {
+            "package_version": "2.2",
+            "download_url": "https://github.com/BowserCrusher/Circle-of-the-Moon-AP-Tracker/archive/refs/tags/2.2/Circle-of-the-Moon-AP-Tracker.zip",
+            "sha256": "015183b5d261bc4f00d4a3576e4578cdd2b65d2c1689dbb2317573c91498ca26",
+            "changelog": [
+                "Bug Fixes"
+            ]
+        },
+        {
+            "package_version": "2.1",
+            "download_url": "https://github.com/BowserCrusher/Circle-of-the-Moon-AP-Tracker/archive/refs/tags/2.1/Circle-of-the-Moon-AP-Tracker.zip",
+            "sha256": "744a5c91b03f805a5eebbe1c676f4b6ea31fb39e19801ddb48d5adc0d6c8a2da",
+            "changelog": [
+                "Machine Tower logic fixes"
+            ]
+        },
+        {
+            "package_version": "2.0",
+            "download_url": "https://github.com/BowserCrusher/Circle-of-the-Moon-AP-Tracker/archive/refs/tags/2.0/Circle-of-the-Moon-AP-Tracker.zip",
+            "sha256": "33800C0985859D66FD08ADF4111D177E0D34B7776615D6062BC9D5D0D6029EB0",
+            "changelog": [
+                "Added Nerf Roc Wing Option",
+                "Maiden Detonator partially autotracks"
+            ]
+        }
+    ]
+}

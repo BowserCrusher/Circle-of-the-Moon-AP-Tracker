@@ -129,42 +129,42 @@
   "stages": [
     {
       "img": "images/lastkeys/1.png",
-      "codes": "finalkeys",
+      "codes": "finalkeys,1",
       "inherit_codes": true
     },
     {
       "img": "images/lastkeys/2.png",
-      "codes": "2",
+      "codes": "finalkeys,2",
       "inherit_codes": true
     },
     {
       "img": "images/lastkeys/3.png",
-      "codes": "3",
+      "codes": "finalkeys,3",
       "inherit_codes": true
     },
     {
       "img": "images/lastkeys/4.png",
-      "codes": "4",
+      "codes": "finalkeys,4",
       "inherit_codes": true
     },
     {
       "img": "images/lastkeys/5.png",
-      "codes": "5",
+      "codes": "finalkeys,5",
       "inherit_codes": true
     },
     {
       "img": "images/lastkeys/6.png",
-      "codes": "6",
+      "codes": "finalkeys,6",
       "inherit_codes": true
     },
     {
       "img": "images/lastkeys/7.png",
-      "codes": "7",
+      "codes": "finalkeys,7",
       "inherit_codes": true
     },
     {
       "img": "images/lastkeys/8.png",
-      "codes": "8",
+      "codes": "finalkeys,8",
       "inherit_codes": true
     }
   ]

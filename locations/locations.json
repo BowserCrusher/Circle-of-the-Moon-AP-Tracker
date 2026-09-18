@@ -1602,7 +1602,7 @@
     {
       "name": "Chapel Tower: Upper chapel Marionette wall kicks",
       "access_rules": [
-        
+        "$jumplv3", "kick"
       ],
       "sections": [
         {
@@ -1623,7 +1623,7 @@
     {
       "name": "Chapel Tower: Upper belfry fake wall",
       "access_rules": [
-        
+        "$jumplv3", "kick"
       ],
       "sections": [
         {
@@ -1644,7 +1644,7 @@
     {
       "name": "Chapel Tower: Switch",
       "access_rules": [
-        
+        "$jumplv3", "kick"
       ],
       "sections": [
         {
@@ -1667,7 +1667,7 @@
     {
       "name": "Chapel Tower: Behind Adramelech iron maiden",
       "access_rules": [
-        
+        "$jumplv3", "kick"
       ],
       "sections": [
         {
@@ -2357,7 +2357,7 @@
   //Rebels
   {
     "name": "Machine Tower: Top lone Stone Armor room",
-    "access_rules": [ "double,tackle","$jumplv3", "kick,double"],
+    "access_rules": [ "double,tackle","$jumplv2", "kick,double"],
     "sections": [
       {
 
@@ -2394,7 +2394,7 @@
     },
   {
     "name": "Machine Tower: Pre-Iron Golem fake wall",
-    "access_rules": [ "double,tackle","$jumplv3", "kick,double"],
+    "access_rules": [ "double,tackle","$jumplv2", "kick,double"],
     "sections": [
       {
 
@@ -2413,7 +2413,7 @@
   },
   {
     "name": "Machine Tower: Behind Iron Golem",
-    "access_rules": [ "double,tackle","$jumplv3", "kick,double"],
+    "access_rules": [ "double,tackle","$jumplv2", "kick,double"],
     "sections": [
       {
 
