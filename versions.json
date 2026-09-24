@@ -1,6 +1,14 @@
 {
     "versions": [
         {
+            "package_version": "2.4.2",
+            "download_url": "https://github.com/BowserCrusher/Circle-of-the-Moon-AP-Tracker/archive/refs/tags/2.4.2/Circle-of-the-Moon-AP-Tracker.zip",
+            "sha256": "1e384f68f1f0cb3c548d8c3ecefea4f91b5224a8064830bd0f942d6333c41163",
+            "changelog": [
+                "Back 2 Waterways checks now needs lv3 roc wing"
+            ]
+        },
+        {
             "package_version": "2.4.1",
             "download_url": "https://github.com/BowserCrusher/Circle-of-the-Moon-AP-Tracker/archive/refs/tags/2.4.1/Circle-of-the-Moon-AP-Tracker.zip",
             "sha256": "b08156f8e9b9160cb6ed89a581f116b560e9e83b400d03b8643e515b18de2683",
