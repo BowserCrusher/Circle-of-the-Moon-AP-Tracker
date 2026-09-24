@@ -2236,7 +2236,7 @@
     
     {
       "name": "Underground Waterway: Lizard-man turf - Top",
-      "access_rules": [ "$cleansed"
+      "access_rules": [ "$cleansed, $jumplv3"
         
       ],
       "sections": [
@@ -2273,7 +2273,7 @@
     {
       "name": "Underground Waterway: Behind Camilla",
       "access_rules": [
-        "$cleansed"
+        "$cleansed, $jumplv3"
       ],
       "sections": [
         {
