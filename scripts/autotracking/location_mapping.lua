@@ -84,6 +84,7 @@ LOCATION_MAPPING = {
     [0xD55C0073] = {"@Chapel Tower: Upper chapel fake wall/"},
     [0xD55C0070] = {"@Chapel Tower: Upper chapel Marionette wall kicks/"},
     [0xD55C0074] = {"@Chapel Tower: Upper belfry fake wall/"},
+    [0xD55C00F0] = {"@Chapel Tower: Switch/"},
  [0xD55C0071] = {"@Chapel Tower: Behind Adramelech iron maiden/"},
  [0xD55C009C] = {"@Chapel Tower: Outside Battle Arena - Upper/"},
  [0xD55C009B] = {"@Chapel Tower: Outside Battle Arena - Lower/"},

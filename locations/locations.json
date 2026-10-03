@@ -1399,9 +1399,27 @@
           "y": 366
         }      
       ]
+    },
+    {
+      "name": "Eternal Corridor: Midway fake wall",
+      "access_rules": [
+      ],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 662,
+          "y": 366
+        }
+        
+      ]
     }
-    
-    
 
 ]
 },
@@ -1723,27 +1741,6 @@
           "map": "full",
           "x": 582,
           "y": 174
-        }
-        
-      ]
-    },
-    {
-      "name": "Eternal Corridor: Midway fake wall",
-      "access_rules": [
-        
-      ],
-      "sections": [
-        {
-  
-          "item_count": 1
-        }
-  
-      ],
-      "map_locations": [
-        {
-          "map": "full",
-          "x": 662,
-          "y": 366
         }
         
       ]
@@ -2500,7 +2497,7 @@
 {
   "name": "Triumph Hallway: Entrance Flame Armor climb",
   "access_rules": [
-    "$araccess, $jumplv2"
+    "$araccess, $jumplv2", "$araccess, $freeze, kick, double"
   ],
   "sections": [
     {
