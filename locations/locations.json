@@ -1667,8 +1667,7 @@
       "sections": [
         {
   
-          "item_count": 1,
-          "hosted_item": "openmaiden"
+          "item_count": 1
         }
   
       ],
@@ -1685,7 +1684,7 @@
     {
       "name": "Chapel Tower: Behind Adramelech iron maiden",
       "access_rules": [
-        "$jumplv3", "kick"
+        "$jumplv3", "kick, openmaiden"
       ],
       "sections": [
         {
