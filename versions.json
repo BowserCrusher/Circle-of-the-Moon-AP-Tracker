@@ -3,7 +3,7 @@
         {
             "package_version": "2.4.3",
             "download_url": "https://github.com/BowserCrusher/Circle-of-the-Moon-AP-Tracker/archive/refs/tags/2.4.3/Circle-of-the-Moon-AP-Tracker.zip",
-            "sha256": "CAA1722442F72591805B4109CCF7A42899A000FDFDF61BB27CA659A972A06B3E",
+            "sha256": "3C974B034E1CFBF3A5B6CC6BDF71E1E932C2068D994E60624ECA4D64E9E98F67",
             "changelog": [
                 "Triumph Hallway and Eternal Hallway check fixes",
                 "Maiden switch check works",
